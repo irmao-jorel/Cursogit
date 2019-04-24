@@ -3,3 +3,4 @@ quel liga
 to nem ai
 teste
 teste 2 git push oringin master
+Git Checkout -b Testando versão 1.2
